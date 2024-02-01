@@ -1,0 +1,47 @@
+<svg width="1920" height="221" viewBox="0 0 1920 221" fill="none" xmlns="http://www.w3.org/2000/svg">
+	<path d="M0 44.1513L107.286 22.5569C181.047 7.71052 257.207 9.70212 330.091 28.3833L423.589 52.3481C512.083 75.0306 605.101 73.0344 692.541 46.5763L695.929 45.5513C784.67 18.6994 879.13 17.0506 968.755 40.789L1066.41 66.653C1117.36 80.1481 1170.12 85.5021 1222.74 82.5167L1387.3 73.1812C1417.48 71.469 1447.45 67.0229 1476.83 59.8978L1585.37 33.5727C1664.16 14.4638 1746.42 14.8016 1825.05 34.557L1920 58.4117V198.361L0 204.12V44.1513Z" fill="url(#paint0_linear_1733_263)" fill-opacity="0.5" />
+	<path d="M0 94.3569L130.849 62.445C210.482 43.0239 293.952 46.184 371.889 71.5705L411.833 84.5816C482.238 107.515 558.39 105.526 627.502 78.9503V78.9503C697.627 51.9849 774.965 50.3444 846.17 74.312L870.902 82.6368C942.9 106.871 1020.93 106.37 1092.61 81.2123V81.2123C1155.28 59.2166 1223.01 56.0026 1287.49 71.9652L1325.32 81.3318C1403.5 100.689 1485.71 95.9928 1561.18 67.8564V67.8564C1628.49 42.7665 1701.3 36.2601 1771.98 49.0205L1920 75.7422V237.498H0V94.3569Z" fill="url(#paint1_linear_1733_263)" />
+	<path d="M0 47.5L150.093 77.5635C219.033 91.3721 290.111 90.4858 358.685 74.9624L393.844 67.0035C450.84 54.1011 509.657 51.2902 567.623 58.6986L660.507 70.5694C703.542 76.0694 747.109 75.9449 790.111 70.1993L875.867 58.7412C931.557 51.3003 988.103 53.2991 1043.13 64.6535L1100.49 76.4891C1167.88 90.3956 1237.42 90.2411 1304.75 76.0353L1364.23 63.4871C1414.44 52.8922 1465.99 50.0919 1517.06 55.1846L1629.86 66.4328C1662.76 69.714 1695.91 69.7231 1728.81 66.4599L1920 47.5V237.498H0V47.5Z" fill="url(#paint2_linear_1733_263)" fill-opacity="0.8" />
+	<text x="50%" y="75%" dominant-baseline="middle" text-anchor="middle" id="texting" fill="white">
+		جميع الحقوق محفوظة © 2023 | إنفيستك
+	</text>
+	<defs>
+		<style>
+
+			@font-face{
+				font-family:'Cairo';
+				src:url('./footer_font/Cairo/static/Cairo-Regular.ttf'),
+				url('./footer_font/Cairo/static/Cairo-Light.ttf'),
+				url('./footer_font/Cairo/static/Cairo-ExtraLight.ttf'),
+				url('./footer_font/Cairo/static/Cairo-Medium.ttf'),
+				url('./footer_font/Cairo/static/Cairo-SemiBold.ttf'),
+				url('./footer_font/Cairo/static/Cairo-Black.ttf'),
+				url('./footer_font/Cairo/static/Cairo-Bold.ttf'),
+				url('./footer_font/Cairo/static/Cairo-ExtraBold.ttf');
+			}
+
+			#texting {
+			
+				font-family: "Cairo";
+				font-size: 24px;
+				font-weight: bold;
+			}
+
+		</style>
+		<linearGradient id="paint0_linear_1733_263" x1="-100.737" y1="100.46" x2="2331.62" y2="100.46" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#63AE98" />
+			<stop offset="0.5" stop-color="#4C8595" />
+			<stop offset="1" stop-color="#4E7699" />
+		</linearGradient>
+		<linearGradient id="paint1_linear_1733_263" x1="0" y1="133.512" x2="1920" y2="133.512" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#4E7699" />
+			<stop offset="0.5" stop-color="#5DA994" />
+			<stop offset="0.994792" stop-color="#4C8E91" />
+		</linearGradient>
+		<linearGradient id="paint2_linear_1733_263" x1="0" y1="142.499" x2="1920" y2="142.499" gradientUnits="userSpaceOnUse">
+			<stop offset="0.000520833" stop-color="#4E7699" />
+			<stop offset="0.5" stop-color="#64AF98" />
+			<stop offset="1" stop-color="#4C8097" />
+		</linearGradient>
+	</defs>
+</svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 461.64 462.12">
+	<defs>
+		<style>
+			.cls-2{
+                fill:url(#linear-gradient);
+			}
+		</style>
+		<linearGradient id="linear-gradient" y1="231.06" x2="461.64" y2="231.06" gradientTransform="translate(440.14 -19.64) rotate(84.83)" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#73bca3" />
+			<stop offset="0.24" stop-color="#529e8c" />
+			<stop offset="0.32" stop-color="#4d9a89" />
+			<stop offset="0.58" stop-color="#4d7598" />
+		</linearGradient>
+	</defs>
+	<g id="Layer_2" data-name="Layer 2">
+		<g id="Layer_1-2" data-name="Layer 1">
+			<path class="cls-2" d="M70.48,309,334.59,125.67c-2.09-4.77-19.31-20.21-6.46-22.74l53-4.07a6.93,6.93,0,0,1,6.93,9.57L368,156.84c-5.73,10.25-13.72-6-17.22-9.84L89.26,335.5C74.08,346.67,55,319.59,70.48,309Z" />
+			<rect class="cls-2" x="48.95" y="173.4" width="266.59" height="24.16" rx="12.08" transform="matrix(0.83, -0.56, 0.56, 0.83, -72.85, 135.07)" />
+			<rect class="cls-2" x="107.94" y="259.98" width="266.59" height="24.16" rx="12.08" transform="translate(-112.26 186.9) rotate(-34.89)" />
+			<path class="cls-2" d="M244,292.34h70.38a11.3,11.3,0,0,1,11.3,11.3v.1a11.3,11.3,0,0,1-11.3,11.3H244a11.35,11.35,0,0,1-11.35-11.35v0A11.35,11.35,0,0,1,244,292.34Z" transform="translate(-123.54 214.26) rotate(-34.89)" />
+			<path class="cls-2" d="M125,133h70.38a11.3,11.3,0,0,1,11.3,11.3v.1a11.3,11.3,0,0,1-11.3,11.3H125a11.35,11.35,0,0,1-11.35-11.35v0A11.35,11.35,0,0,1,125,133Z" transform="translate(-53.77 117.59) rotate(-34.89)" />
+		</g>
+	</g>
+</svg>
